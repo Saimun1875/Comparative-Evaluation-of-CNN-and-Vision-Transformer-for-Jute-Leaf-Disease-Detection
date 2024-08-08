@@ -1,4 +1,4 @@
-# A Comparative Evaluation of CNN and ViT for Jute Leaf Disease Detection
+# A Comparative Evaluation of CNN and ViT for Jute Leaf Disease Detection - BSc Thesis
 
 **Objective:** Compare the effectiveness of Convolutional Neural Networks (CNN) and Vision Transformers (ViT) in detecting diseases in jute leaves.
 

@@ -1,0 +1,1 @@
+# Comparative-Evaluation-of-CNN-and-Vision-Transformer-for-Jute-Leaf-Disease-Detection
